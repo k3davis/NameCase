@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description>Provides a utility method to perform "best-guess" case and spacing normalization to person names.</Description>
+    <PackageIconUrl>https://raw.github.com/k3davis/namecase/master/Icons/icon_nuget.png</PackageIconUrl>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageTags></PackageTags>
+    <PackageReleaseNotes>Initial release.</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/k3davis/NameCase</PackageProjectUrl>
+    <Authors>Tirelo</Authors>
+  </PropertyGroup>
+
+</Project>
