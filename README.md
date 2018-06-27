@@ -43,4 +43,4 @@ IANAL but since the project from which this was derived was originally shared un
 
 ### Icon
 
-[Name](http://thenounproject.com/term/name/1736321/) by [Xela Ub](https://thenounproject.com/xela) from [The Noun Project](http://thenounproject.com/)
+[Name](http://thenounproject.com/term/name/1736321/) by [Xela Ub](https://thenounproject.com/xela.) from [The Noun Project](http://thenounproject.com/)
