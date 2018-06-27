@@ -33,7 +33,7 @@ var normalizedName = name.ToNameCase(); // "John Smith"
 
 ## What do you mean by "best-guess"?
 
-There is really no such thing as a normalized name, as there are endless possible varieties across many languages that are largely unpredictable. For example a person can be named LeeAnn Leeann according to parental preference or any other set of factors. This method is intended to work for the "majority" of normal use cases, but the output certainly is not authoritative.
+There is really no such thing as a normalized name, as there are endless possible varieties across many languages that are largely unpredictable. For example a person can be named JoAnne, Jo-Anne, Joann, etc. according to parental preference or any other set of factors. This method is intended to work for the "majority" of normal use cases, but the output certainly is not authoritative.
 
 If you have suggestions for improving the output, feel free to open an issue or submit a PR, with the  understanding that some combinations just can't be accounted for.
 
