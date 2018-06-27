@@ -4,6 +4,14 @@ NameCase
 
 Provides a utility method to perform "best-guess" (see below) case and spacing normalization to person names. This project is a partial fork of a similar PHP function posted on [dialect.ca](https://dialect.ca/code/name-case), with various (imho) small improvements.
 
+## Installation
+
+via Nuget:
+
+```
+Install-Package NameCase
+```
+
 ## Basic Usage
 
 A string extension method takes your name input and returns a "best-guess" normalized string:
